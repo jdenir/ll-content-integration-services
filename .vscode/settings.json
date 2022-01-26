@@ -1,0 +1,11 @@
+{
+  "debug.node.autoAttach": "on",
+  "editor.formatOnSave": true,
+  "editor.rulers": [120],
+  "prettier.printWidth": 120,
+  "javascript.format.enable": false,
+  "typescript.format.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}
